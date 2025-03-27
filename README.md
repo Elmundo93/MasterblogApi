@@ -23,22 +23,7 @@ This project is a full-stack blogging platform developed as part of the Mastersc
 - **Search Posts:** Find posts by matching search terms in the title or content.
 - **Sorting:** Supports sorting in both ascending and descending order based on title or content.
 
-## Project Structure
-project-root/
-│
-├── backend/
-│   └── backend_app.py       # Flask backend application
-│
-├── frontend/
-│   ├── static/
-│   │   ├── main.js          # JavaScript file handling API calls
-│   │   └── styles.css       # CSS for styling the frontend
-│   └── templates/
-│       └── index.html       # HTML template for the frontend
-│
-├── frontend_app.py          # Flask frontend application
-├── README.md                # This file
-└── requirements.txt         # Python dependencies
+
 
 ## Prerequisites
 - **Python 3.7+** installed on your machine.
